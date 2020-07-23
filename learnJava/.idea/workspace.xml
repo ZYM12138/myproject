@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/META-INF/learnJava.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Demo02Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo01Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo02Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo03Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo04ArrayUse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo05ArrayUse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo06ArrayOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo06ArrayTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo07ArraySame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo08ArrayIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo09ArrayNull.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo10ArrayLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo11Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo12ArrayMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo13ArrayMin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo14ArrayReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo15ArrayParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo16ArrayReturn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo01Sequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo02If.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo03IfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo04IfElseExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Demo02Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo01Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo02Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo03Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo04ArrayUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo05ArrayUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo06ArrayOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo06ArrayTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo07ArraySame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo08ArrayIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo09ArrayNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo10ArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo11Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo12ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo13ArrayMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo14ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo15ArrayParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Demo16ArrayReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Demo01Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Demo02If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Demo03IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Demo04IfElseExt.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1eJrOPpzO3Mc9tRLKyIZqsJa6Dr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo02Student">
+    <configuration name="Demo02Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Demo02Student" />
+      <module name="learnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo09ArrayNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Demo09ArrayNull" />
+      <module name="learnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo11Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Demo11Array" />
+      <module name="learnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo14ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Demo14ArrayReverse" />
+      <module name="learnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo15ArrayParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.Demo15ArrayParam" />
+      <module name="learnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo02Student" />
+        <item itemvalue="Application.Demo15ArrayParam" />
+        <item itemvalue="Application.Demo14ArrayReverse" />
+        <item itemvalue="Application.Demo11Array" />
+        <item itemvalue="Application.Demo09ArrayNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="" />
+      <created>1594050503698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594050503698</updated>
+      <workItem from="1594050504897" duration="1272000" />
+      <workItem from="1594097089631" duration="78000" />
+      <workItem from="1594171964151" duration="5681000" />
+      <workItem from="1594472124539" duration="550000" />
+      <workItem from="1594551832816" duration="31000" />
+      <workItem from="1594626900866" duration="713000" />
+      <workItem from="1594656706848" duration="84000" />
+      <workItem from="1594657110043" duration="3000" />
+      <workItem from="1594724499348" duration="341000" />
+      <workItem from="1594730393669" duration="30000" />
+      <workItem from="1594801858729" duration="1202000" />
+      <workItem from="1594994247655" duration="216000" />
+      <workItem from="1595053475125" duration="4011000" />
+      <workItem from="1595082710066" duration="83000" />
+      <workItem from="1595157118260" duration="595000" />
+      <workItem from="1595230524039" duration="4288000" />
+      <workItem from="1595339015493" duration="4158000" />
+      <workItem from="1595410862934" duration="4990000" />
+      <workItem from="1595493800220" duration="194000" />
+      <workItem from="1595494061053" duration="1301000" />
+      <workItem from="1595495376403" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
