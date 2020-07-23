@@ -4,35 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="first version">
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/META-INF/learnJava.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Demo02Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo01Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo02Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo03Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo04ArrayUse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo05ArrayUse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo06ArrayOne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo06ArrayTwo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo07ArraySame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo08ArrayIndex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo09ArrayNull.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo10ArrayLength.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo11Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo12ArrayMax.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo13ArrayMin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo14ArrayReverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo15ArrayParam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/array/Demo16ArrayReturn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo01Sequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo02If.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo03IfElse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo04IfElseExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Demo01PhoneOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Phone.java" afterDir="false" />
+    <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/Demo02Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Demo02Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/Demo01PhoneOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Demo01PhoneOne.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +158,7 @@
       <workItem from="1595493800220" duration="194000" />
       <workItem from="1595494061053" duration="1301000" />
       <workItem from="1595495376403" duration="3293000" />
-      <workItem from="1595501369791" duration="4251000" />
+      <workItem from="1595501369791" duration="4890000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1595495879404</created>
@@ -207,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595505343839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first version">
+      <created>1595506429245</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595506429245</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
