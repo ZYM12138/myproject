@@ -4,14 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnJava.iml" afterDir="false" />
+    <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="first version">
       <change afterPath="$PROJECT_DIR$/out/production/learnJava/META-INF/learnJava.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Demo02Student.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Student.class" afterDir="false" />
@@ -36,29 +29,10 @@
       <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo02If.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo03IfElse.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/learnJava/loop/Demo04IfElseExt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Demo02Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo01Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo02Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo03Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo04ArrayUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo05ArrayUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo06ArrayOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo06ArrayTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo07ArraySame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo08ArrayIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo09ArrayNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo10ArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo11Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo12ArrayMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo13ArrayMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo14ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo15ArrayParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo16ArrayReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Demo01Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Demo02If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Demo03IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Demo04IfElseExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Demo01PhoneOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/Demo02Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/Demo02Student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +51,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6e8cc057-d9fc-4336-8bc1-5c0efed21bc5" />
+  </component>
   <component name="ProjectId" id="1eJrOPpzO3Mc9tRLKyIZqsJa6Dr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -86,7 +63,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,8 +183,31 @@
       <workItem from="1595410862934" duration="4990000" />
       <workItem from="1595493800220" duration="194000" />
       <workItem from="1595494061053" duration="1301000" />
-      <workItem from="1595495376403" duration="321000" />
+      <workItem from="1595495376403" duration="3293000" />
+      <workItem from="1595501369791" duration="4251000" />
     </task>
+    <task id="LOCAL-00001" summary="first version">
+      <created>1595495879404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595495879404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first version">
+      <created>1595505154799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595505154799</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first version">
+      <created>1595505343839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595505343839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,5 +225,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first version" />
+    <option name="LAST_COMMIT_MESSAGE" value="first version" />
   </component>
 </project>
