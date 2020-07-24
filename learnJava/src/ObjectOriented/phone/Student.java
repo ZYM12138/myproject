@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.phone;
 
 public class Student {
     String name;

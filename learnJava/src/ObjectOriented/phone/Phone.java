@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.phone;
 /*
 定义一个类，用来模拟“手机”事物。
 属性：品牌、价格、颜色
