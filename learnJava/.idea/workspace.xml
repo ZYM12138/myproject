@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/day2/Demo01Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/day2/Demo02Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/day2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo02Max">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Demo01Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectOriented.day2.Demo01Scanner" />
       <module name="learnJava" />
@@ -93,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo15ArrayParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Demo15ArrayParam" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.day2.Test" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="ObjectOriented.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Demo02Max" />
         <item itemvalue="Application.Demo01Scanner" />
         <item itemvalue="Application.TestStudent" />
         <item itemvalue="Application.Demo02Student" />
-        <item itemvalue="Application.Demo15ArrayParam" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +161,7 @@
       <workItem from="1595495376403" duration="3293000" />
       <workItem from="1595501369791" duration="5263000" />
       <workItem from="1595594277980" duration="1488000" />
-      <workItem from="1595855181591" duration="4488000" />
+      <workItem from="1595855181591" duration="8530000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1595495879404</created>
@@ -213,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595857567239</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first version">
+      <created>1595863220735</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595863220735</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
