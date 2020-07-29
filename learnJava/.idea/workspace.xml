@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/day2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/ArrayList/Demo01StudentArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/ArrayList/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Random/Demo01RandomTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Random/Demo02RandomTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/ArrayList/Demo01StudentArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/ArrayList/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Random/Demo01RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Random/Demo02RandomTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,13 +59,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Demo01Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.day2.Demo01Scanner" />
+  <component name="RunManager" selected="Application.Demo01StudentArray">
+    <configuration name="Demo01RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Random.Demo01RandomTest" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.day2.*" />
+          <option name="PATTERN" value="ObjectOriented.Random.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01StudentArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.ArrayList.Demo01StudentArray" />
+      <module name="learnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObjectOriented.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.phone.Demo02Student" />
+    <configuration name="Demo02RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Random.Demo02RandomTest" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.phone.*" />
+          <option name="PATTERN" value="ObjectOriented.Random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.day2.TestStudent" />
-      <module name="learnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectOriented.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01StudentArray" />
+        <item itemvalue="Application.Demo02RandomTest" />
+        <item itemvalue="Application.Demo01RandomTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Demo02Max" />
-        <item itemvalue="Application.Demo01Scanner" />
-        <item itemvalue="Application.TestStudent" />
-        <item itemvalue="Application.Demo02Student" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +168,10 @@
       <workItem from="1595495376403" duration="3293000" />
       <workItem from="1595501369791" duration="5263000" />
       <workItem from="1595594277980" duration="1488000" />
-      <workItem from="1595855181591" duration="8530000" />
+      <workItem from="1595855181591" duration="8989000" />
+      <workItem from="1595912585514" duration="1336000" />
+      <workItem from="1595936447826" duration="28000" />
+      <workItem from="1596022264946" duration="2248000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1595495879404</created>
@@ -219,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595863220735</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first version">
+      <created>1595870128417</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1595870128417</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first version">
+      <created>1595870210902</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1595870210902</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
