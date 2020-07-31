@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/ArrayList/Demo01StudentArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/ArrayList/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Random/Demo01RandomTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/learnJava/ObjectOriented/Random/Demo02RandomTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/ArrayList/Demo01StudentArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/ArrayList/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Random/Demo01RandomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/Random/Demo02RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/StringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01StudentArray">
+  <component name="RunManager" selected="Application.StringTest">
     <configuration name="Demo01RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectOriented.Random.Demo01RandomTest" />
       <module name="learnJava" />
@@ -86,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.day2.Demo02Max" />
+    <configuration name="Demo02RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Random.Demo02RandomTest" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.day2.*" />
+          <option name="PATTERN" value="ObjectOriented.Random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.Random.Demo02RandomTest" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.StringTest" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.Random.*" />
+          <option name="PATTERN" value="ObjectOriented.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.Demo01StudentArray" />
         <item itemvalue="Application.Demo02RandomTest" />
         <item itemvalue="Application.Demo01RandomTest" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Demo02Max" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +164,8 @@
       <workItem from="1595855181591" duration="8989000" />
       <workItem from="1595912585514" duration="1336000" />
       <workItem from="1595936447826" duration="28000" />
-      <workItem from="1596022264946" duration="2248000" />
+      <workItem from="1596022264946" duration="4844000" />
+      <workItem from="1596186532435" duration="1215000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1595495879404</created>
@@ -243,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595870210902</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="first version">
+      <created>1596032008832</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596032008833</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
