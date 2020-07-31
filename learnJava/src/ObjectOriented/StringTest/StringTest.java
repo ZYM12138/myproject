@@ -1,4 +1,4 @@
-package ObjectOriented;
+package ObjectOriented.StringTest;
 
 public class StringTest {
     public static void main(String[] args) {
