@@ -1,4 +1,5 @@
 package ObjectOriented.StringTest;
+
 /*
 public String split(String regex) 方法参数是正则表达式
 如果要进行英文句点"."进行切分，必须写"\\."(两个反斜杠)
@@ -15,6 +16,12 @@ public class StringSplit {
         String[] array1 = str1.split(" ");
         for (int i = 0; i < array1.length; i++) {
             System.out.println(array1[i]);
+        }
+        System.out.println("============");
+        String str2 = "XXX.YYY.ZZZ";
+        String[] array2 = str2.split("\\.");
+        for (int i = 0; i < array2.length; i++) {
+            System.out.println(array2[i]);
         }
     }
 }
