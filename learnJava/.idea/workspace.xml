@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/staticmethod/StuDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/staticmethod/StuDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/staticmethod/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/ArraysMethod/ArraysMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/ArraysMethod/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/MathMethod/MathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/staticmethod/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +32,9 @@
     <option name="defaultAccountId" value="6e8cc057-d9fc-4336-8bc1-5c0efed21bc5" />
   </component>
   <component name="ProjectId" id="1eJrOPpzO3Mc9tRLKyIZqsJa6Dr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -54,13 +57,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StuDemo2">
-    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.StringTest.StringSplit" />
+  <component name="RunManager" selected="Application.MathTest">
+    <configuration name="ArraysMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.ArraysMethod.ArraysMethod" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.StringTest.*" />
+          <option name="PATTERN" value="ObjectOriented.ArraysMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.StringTest.StringTest1" />
+    <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.ArraysMethod.ArraysTest" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.StringTest.*" />
+          <option name="PATTERN" value="ObjectOriented.ArraysMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.StringTest.StringTest2" />
+    <configuration name="MathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.MathMethod.MathTest" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.StringTest.*" />
+          <option name="PATTERN" value="ObjectOriented.MathMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathTest" />
+        <item itemvalue="Application.ArraysTest" />
+        <item itemvalue="Application.ArraysMethod" />
         <item itemvalue="Application.StuDemo2" />
         <item itemvalue="Application.StuDemo" />
-        <item itemvalue="Application.StringTest2" />
-        <item itemvalue="Application.StringTest1" />
-        <item itemvalue="Application.StringSplit" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +177,7 @@
       <workItem from="1596290837396" duration="3611000" />
       <workItem from="1596336119953" duration="3564000" />
       <workItem from="1596364912781" duration="1570000" />
-      <workItem from="1596373205593" duration="436000" />
+      <workItem from="1596373205593" duration="2815000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1595495879404</created>
@@ -295,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596339687159</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="first version">
+      <created>1596373648693</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1596373648693</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
