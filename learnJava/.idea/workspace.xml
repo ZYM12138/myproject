@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterfaceAbstractImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/Demo02Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterFaceDefaultA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterFaceDefaultB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterfaceDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterfaceStatic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/Demo01Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/Demo01Interface.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,6 +47,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ObjectOriented.InterfaceTest" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -56,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01Interface">
+  <component name="RunManager" selected="Application.Demo02Interface">
     <configuration name="Demo01Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest.Demo01Interface" />
       <module name="learnJava" />
@@ -70,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtendDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.extends01.ExtendDemo01" />
+    <configuration name="Demo02Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest.Demo02Interface" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.extends01.*" />
+          <option name="PATTERN" value="ObjectOriented.InterfaceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02Interface" />
         <item itemvalue="Application.Demo01Interface" />
         <item itemvalue="Application.MainRedPacket" />
         <item itemvalue="Application.ExtendsDemo06" />
         <item itemvalue="Application.ExtendsDemo02" />
-        <item itemvalue="Application.ExtendDemo01" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +193,8 @@
       <workItem from="1596783001846" duration="1731000" />
       <workItem from="1596807114979" duration="856000" />
       <workItem from="1596873751927" duration="1233000" />
+      <workItem from="1597376543754" duration="170000" />
+      <workItem from="1597447618940" duration="1526000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1595495879404</created>
@@ -340,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596807172004</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="first version">
+      <created>1597376560063</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1597376560063</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
