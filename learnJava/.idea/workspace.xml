@@ -5,22 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/Demo03Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/Demo04Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/Demo05Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterfaceConst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterfacePrivateA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterfacePrivateB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterfaceStaticImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest2/Demo01Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest2/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest2/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest2/MyInterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest2/MyInterfaceAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest2/MyInterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest2/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/Demo01Relations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/MyInterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/MyInterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest4/Demo01Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest4/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest4/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest5/Demo01MultiField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest5/Demo02MultiMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest5/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest5/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Demo01Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Demo02Instanceof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/USB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterfaceStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest/MyInterfaceStatic.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ObjectOriented.InterfaceTest3" />
       <recent name="ObjectOriented.InterfaceTest2" />
       <recent name="ObjectOriented.InterfaceTest" />
     </key>
@@ -75,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01Interface (1)">
+  <component name="RunManager" selected="Application.Demo02Instanceof">
     <configuration name="Demo01Interface (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest2.Demo01Interface" />
       <module name="learnJava" />
@@ -89,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest.Demo01Interface" />
+    <configuration name="Demo01Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest6.Demo01Main" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.InterfaceTest.*" />
+          <option name="PATTERN" value="ObjectOriented.InterfaceTest6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest.Demo02Interface" />
+    <configuration name="Demo01Multi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest4.Demo01Multi" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.InterfaceTest.*" />
+          <option name="PATTERN" value="ObjectOriented.InterfaceTest4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest.Demo03Interface" />
+    <configuration name="Demo01MultiField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest5.Demo01MultiField" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.InterfaceTest.*" />
+          <option name="PATTERN" value="ObjectOriented.InterfaceTest5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest.Demo05Interface" />
+    <configuration name="Demo02Instanceof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest6.Demo02Instanceof" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.InterfaceTest.*" />
+          <option name="PATTERN" value="ObjectOriented.InterfaceTest6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02Instanceof" />
+        <item itemvalue="Application.Demo01Main" />
+        <item itemvalue="Application.Demo01MultiField" />
+        <item itemvalue="Application.Demo01Multi" />
         <item itemvalue="Application.Demo01Interface (1)" />
-        <item itemvalue="Application.Demo05Interface" />
-        <item itemvalue="Application.Demo03Interface" />
-        <item itemvalue="Application.Demo02Interface" />
-        <item itemvalue="Application.Demo01Interface" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +217,8 @@
       <workItem from="1597568247024" duration="33000" />
       <workItem from="1597611462625" duration="194000" />
       <workItem from="1597611717527" duration="246000" />
-      <workItem from="1597627817236" duration="3966000" />
+      <workItem from="1597627817236" duration="4023000" />
+      <workItem from="1597649286201" duration="5241000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1595495879404</created>
@@ -379,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597450323176</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="first version">
+      <created>1597631891077</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1597631891077</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
