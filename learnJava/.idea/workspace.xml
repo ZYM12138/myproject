@@ -5,28 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec09b8b-94c3-40cb-8dee-696bcffa8d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/Demo01Relations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/MyInterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/MyInterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest3/MyInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest4/Demo01Multi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest4/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest4/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest5/Demo01MultiField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest5/Demo02MultiMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest5/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest5/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Demo01Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Demo02Instanceof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest6/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOriented/InterfaceTest7/USB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/01_input.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/02_open_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/02_open_2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/03_money_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redpad/Bootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redpad/MyRed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redpad/OpenMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redpad/RedPacketFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -69,6 +56,9 @@
       <recent name="ObjectOriented.InterfaceTest3" />
       <recent name="ObjectOriented.InterfaceTest2" />
       <recent name="ObjectOriented.InterfaceTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\myproject\learnJava" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -83,13 +73,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo02Instanceof">
-    <configuration name="Demo01Interface (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOriented.InterfaceTest2.Demo01Interface" />
+  <component name="RunManager" selected="Application.Bootstrap">
+    <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="redpad.Bootstrap" />
       <module name="learnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOriented.InterfaceTest2.*" />
+          <option name="PATTERN" value="redpad.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bootstrap" />
         <item itemvalue="Application.Demo02Instanceof" />
         <item itemvalue="Application.Demo01Main" />
         <item itemvalue="Application.Demo01MultiField" />
         <item itemvalue="Application.Demo01Multi" />
-        <item itemvalue="Application.Demo01Interface (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +208,10 @@
       <workItem from="1597611462625" duration="194000" />
       <workItem from="1597611717527" duration="246000" />
       <workItem from="1597627817236" duration="4023000" />
-      <workItem from="1597649286201" duration="5241000" />
+      <workItem from="1597649286201" duration="6128000" />
+      <workItem from="1597891615834" duration="27000" />
+      <workItem from="1597906526014" duration="9000" />
+      <workItem from="1597906962564" duration="1382000" />
     </task>
     <task id="LOCAL-00001" summary="first version">
       <created>1595495879404</created>
@@ -395,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597631891077</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="first version">
+      <created>1597655742088</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1597655742088</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
