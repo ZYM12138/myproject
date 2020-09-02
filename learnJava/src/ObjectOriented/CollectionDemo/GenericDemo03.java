@@ -11,12 +11,12 @@ public class GenericDemo03 {
         Collection<Object> list4 = new ArrayList<Object>();
 
         getElement(list1);
-        getElement(list2);//报错
+//        getElement(list2);//报错
         getElement(list3);
-        getElement(list4);//报错
-
-        getElement2(list1);//报错
-        getElement2(list2);//报错
+//        getElement(list4);//报错
+//
+//        getElement2(list1);//报错
+//        getElement2(list2);//报错
         getElement2(list3);
         getElement2(list4);
     }
