@@ -47,40 +47,40 @@ public class test {
         System.out.println("请输入学号");
         Scanner sc = new Scanner(System.in);
         String updateSid = sc.next();
-        int index = getIndex(list,updateSid);
-        if (index == -1){
+        int index = getIndex(list, updateSid);
+        if (index == -1) {
             System.out.println("查无信息，请重新输入");
-        }else {
+        } else {
             System.out.println("请输入新的学生姓名");
             String name = sc.next();
             System.out.println("请输入新的学生年龄");
             int age = sc.nextInt();
             System.out.println("请输入新的学生生日");
             String birthday = sc.next();
-            Student stu = new Student(updateSid,name,age,birthday);
-            list.set(index,stu);
+            Student stu = new Student(updateSid, name, age, birthday);
+            list.set(index, stu);
             System.out.println("修改成功");
         }
     }
 
     public static void queryStudent(ArrayList<Student> list) {
-       if (list.size() == 0){
-           System.out.println("无信息，请添加后重新查询");
-       }else {
-           System.out.println("学号\t姓名\t年龄\t生日\t");
-           for (int i = 0; i < list.size(); i++) {
-               Student stu = list.get(i);
-               System.out.println(stu.getSid()+"\t"+stu.getName()+"\t"+stu.getAge()+"\t\t"+stu.getBirthday());
-           }
-       }
+        if (list.size() == 0) {
+            System.out.println("无信息，请添加后重新查询");
+        } else {
+            System.out.println("学号\t姓名\t年龄\t生日\t");
+            for (int i = 0; i < list.size(); i++) {
+                Student stu = list.get(i);
+                System.out.println(stu.getSid() + "\t" + stu.getName() + "\t" + stu.getAge() + "\t\t" + stu.getBirthday());
+            }
+        }
     }
 
-    public static int getIndex(ArrayList<Student> list,String sid){
+    public static int getIndex(ArrayList<Student> list, String sid) {
         int index = -1;
         for (int i = 0; i < list.size(); i++) {
             Student stu = list.get(i);
             String id = stu.getSid();
-            if (id.equals(sid)){
+            if (id.equals(sid)) {
                 index = i;
             }
         }
@@ -91,10 +91,10 @@ public class test {
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入学号");
         String deleteSid = sc.next();
-        int index = getIndex(list,deleteSid);
-        if (index == -1){
+        int index = getIndex(list, deleteSid);
+        if (index == -1) {
             System.out.println("查无信息，请重新输入");
-        }else {
+        } else {
             list.remove(index);
             System.out.println("删除成功");
         }
@@ -103,13 +103,13 @@ public class test {
     public static void addStudent(ArrayList<Student> list) {
         Scanner sc = new Scanner(System.in);
         String sid;
-        while (true){
+        while (true) {
             System.out.println("请输入学号");
             sid = sc.next();
-            int index = getIndex(list,sid);
-            if (index == -1){
+            int index = getIndex(list, sid);
+            if (index == -1) {
                 break;
-            }else {
+            } else {
                 System.out.println("学号已存在");
             }
         }
@@ -119,7 +119,7 @@ public class test {
         int age = sc.nextInt();
         System.out.println("请输入生日");
         String birthday = sc.next();
-        Student stu = new Student(sid,name,age,birthday);
+        Student stu = new Student(sid, name, age, birthday);
         list.add(stu);
         System.out.println("添加成功");
     }
