@@ -22,7 +22,7 @@ public class MapTest {
                 hashMap.put(c,1);
             } else {
                 Integer count = hashMap.get(c);
-                hashMap.put(c,++count);
+                hashMap.put(c,count+1);
             }
         }
         System.out.println(hashMap);

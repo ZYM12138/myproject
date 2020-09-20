@@ -1,6 +1,6 @@
 package NewTest;
 
-public class Student {
+public class Student implements java.io.Serializable{
     private String sid;
     private String name;
     private int age;
