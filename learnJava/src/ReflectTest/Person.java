@@ -3,7 +3,7 @@ package ReflectTest;
 import java.util.Objects;
 
 public class Person {
-    private String name;
+    public String name;
     private int age;
     private String pid;
 
