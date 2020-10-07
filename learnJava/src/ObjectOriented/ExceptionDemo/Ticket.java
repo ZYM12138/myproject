@@ -18,6 +18,8 @@ public class Ticket implements Runnable {
                     }
                     String name = Thread.currentThread().getName();
                     System.out.println(name + "正在卖" + ticket--);
+                }else {
+                    break;
                 }
             }
         }

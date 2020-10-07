@@ -3,7 +3,7 @@ package ObjectOriented.ExceptionDemo;
 public class TicketTest {
     public static void main(String[] args) {
         //创建线程对象
-        Ticket3 ticket = new Ticket3();
+        Ticket ticket = new Ticket();
         //创建窗口对象
         Thread t1 = new Thread(ticket,"窗口1");
         Thread t2 = new Thread(ticket,"窗口2");
